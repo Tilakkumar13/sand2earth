@@ -1,0 +1,6 @@
+numpy>=1.26
+opencv-python>=4.9
+pillow>=10
+# depth from the webcam (Depth Anything V2, runs on Apple Silicon via MPS)
+torch>=2.2
+transformers>=4.45

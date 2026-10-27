@@ -1,0 +1,10 @@
+# downloaded elevation tiles, mosaics and indexes (rebuild with build_index.py)
+data/
+# search results (may contain camera photos)
+output/
+# local environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+selftest_examples.png
